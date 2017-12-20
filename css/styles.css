@@ -25,3 +25,10 @@ h1{
     
     
 }
+.triangle{
+    width: 0;
+    height: 0;
+    border:solid 200px;
+    border-color: transparent transparent deeppink transparent;
+    top: 200px;
+}
