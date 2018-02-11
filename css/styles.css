@@ -2,9 +2,10 @@ body{
     background-color: gainsboro;
 }
 h1{
-    color: #ff4081;
-    text-decoration-line: line-through;
+   /* color: #ff4081;
+    text-decoration-line: line-through;*/
     font-family: 'Pacifico',cursive;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #4dd0e1, 0 0 30px #4dd0e1, 0 0 40px #4dd0e1, 0 0 55px #4dd0e1, 0 0 75px #4dd0e1;
 }
 .box{
     background-color: deeppink;
