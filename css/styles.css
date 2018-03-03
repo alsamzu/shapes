@@ -7,6 +7,7 @@ h1{
     font-family: 'Pacifico',cursive;
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #4dd0e1, 0 0 30px #4dd0e1, 0 0 40px #4dd0e1, 0 0 55px #4dd0e1, 0 0 75px #4dd0e1;
 }
+
 .box{
     background-color: deeppink;
     width: 200px;
@@ -15,7 +16,7 @@ h1{
     top: 200px;
     animation-name: myanimation;
     animation-duration: 2s;
-    animation-iteration-count: 1;
+    animation-iteration-count: infinite;
     /*animation-direction: alternate;*/
     animation-fill-mode: forwards;
 }
